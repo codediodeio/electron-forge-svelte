@@ -1,11 +1,11 @@
-# Electron Forge + Svelte 3 Starter
+# Electron Forge + Svelte  Starter
 
-A starting point for Svelte with Electron Forge
+Get up and running with 💪 Svelte & ⚡ Electron. 
 
 ## Usage
 
 ```
-git clone <this-repo> my-app
+git clone https://github.com/codediodeio/electron-forge-svelte.git my-app
 cd my-app
 
 npm install

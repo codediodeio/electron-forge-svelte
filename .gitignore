@@ -89,3 +89,4 @@ typings/
 out/
 
 public/build
+package-lock.json
